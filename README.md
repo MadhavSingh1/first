@@ -1,2 +1,4 @@
-# first
-My first Projecy
+# First
+My first Project
+\n
+AUTHOR:- Madhav Singh 
